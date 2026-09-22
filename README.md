@@ -85,14 +85,6 @@ LocalizaRecicla é um projeto acadêmico que desenvolvi no 1º semestre de Anál
 
 > ## 🚧 Novos projetos em desenvolvimento.
 
-### 🐍 Python Learning
-
-Com a introdução das bibliotecas Regex e Panda no 2º semestre do meu curso, o projeto Python Learning baseia-se na postagem das listas de exercícios disponibilizadas pelos docentes e de aprendizado autônomo.
-
-`Python` `APIs` `Regex` `Panda` `Git`
-
----
-
 ### 😷 HealthReminder
 
 Também no 2º semestre, participarei da 1ª edição  da FMU Tech Inovação 2026.2 - Desafio de Saúde e Bem-Estar (ODS 3). Para o evento, estou produzindo o HealthReminder, um projeto voltado à organização e acompanhamento de lembretes relacionados à saúde, desenvolvido para facilitar o controle de compromissos e cuidados recorrentes do usuário.
