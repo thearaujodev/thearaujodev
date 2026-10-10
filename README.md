@@ -85,9 +85,9 @@ LocalizaRecicla é um projeto acadêmico que desenvolvi no 1º semestre de Anál
 
 > ## 🚧 Novos projetos em desenvolvimento.
 
-### 😷 HealthReminder
+### 💚 Sauday
 
-Também no 2º semestre, participarei da 1ª edição  da FMU Tech Inovação 2026.2 - Desafio de Saúde e Bem-Estar (ODS 3). Para o evento, estou produzindo o HealthReminder, um projeto voltado à organização e acompanhamento de lembretes relacionados à saúde, desenvolvido para facilitar o controle de compromissos e cuidados recorrentes do usuário.
+Também no 2º semestre, participarei da 1ª edição  da FMU Tech Inovação 2026.2 - Desafio de Saúde e Bem-Estar (ODS 3). Para o evento, estou produzindo o Sauday, um projeto voltado à organização e acompanhamento de lembretes relacionados à saúde, desenvolvido para facilitar o controle de compromissos e cuidados recorrentes do usuário.
 
 `Python` `Flask` `SQLite` `JavaScript` `HMTL` `CSS` `Git`
 
