@@ -30,7 +30,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e trabalho na opera�
 ---
 ## 🛠️ Tecnologias
 
-<table> <tr> <td align="center" width="140"><b>Linguagens</b></td> <td><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS" /></td> </tr> <tr> <td align="center"><b>Backend</b></td> <td><img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark" alt="Flask, Node.js, Express" /></td> </tr> <tr> <td align="center"><b>Bancos de dados</b></td> <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="MySQL, SQLite, MongoDB" /></td> </tr> <tr> <td align="center"><b>Ferramentas</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /></td> </tr> <tr> <td align="center"><b>Dados</b></td> <td> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> </td> </tr> </table>
+<table> <tr> <td align="center" width="140"><b>Linguagens</b></td> <td><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS" /></td> </tr> <tr> <td align="center"><b>Backend</b></td> <td><img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark" alt="Flask, Node.js, Express" /></td> </tr> <tr> <td align="center"><b>Bancos de dados</b><td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="MySQL, PostgreSQL, SQLite, MongoDB" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white" alt="Oracle" />
+    </td> </tr> <tr> <td align="center"><b>Ferramentas</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /></td> </tr> <tr> <td align="center"><b>Dados</b></td> <td> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> </td> </tr> </table>
 
 ---
 ## 🚀 Projetos em destaque
@@ -46,5 +49,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e trabalho na opera�
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearaujodev/thearaujodev/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thearaujodev/thearaujodev/output/github-snake.svg" /> <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/thearaujodev/thearaujodev/output/github-snake.svg" /> </picture> </div>
 <!-- ============================== FOOTER ============================== --> <div align="center">
-build → learn → improve → repeat
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="Rodapé" /> </div>
