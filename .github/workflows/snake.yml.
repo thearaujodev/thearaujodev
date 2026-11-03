@@ -1,4 +1,4 @@
-name: Gerar cobrinha de contribuições
+name: Atualizar cards do perfil
  
 on:
   schedule:
@@ -13,15 +13,31 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
-      - name: Gerar SVGs
+      - name: Gerar cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+ 
+      - name: Gerar card de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+ 
+      - name: Gerar card de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark&hide_border=true&locale=pt-br"
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
  
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
