@@ -1,110 +1,49 @@
-<div align="center">
+<!-- ============================== HEADER ============================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Miguel%20Ara%C3%BAjo&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Python%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Dados%20%E2%80%A2%20Web&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Miguel Araújo" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1300&color=58A6FF&center=true&vCenter=true&width=620&lines=print('Hello+World!');Estudante+de+ADS+%40+FMU;Aprendiz+de+Opera%C3%A7%C3%B5es+%40+Autopass;Automatizando+o+que+%C3%A9+repetitivo+%F0%9F%A4%96" alt="Typing SVG" /> </a> <br/>
 
-# `print('Hello World!')`
-
-### 💻 Full-Stack Developer | 🎓 Análise e Desenvolvimento de Sistemas
-
-<p>
-  <a href="https://github.com/thearaujodev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/miguelaraujodev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudante+de+ADS;Full-Stack+Developer;Python+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Turning+ideas+into+projects" alt="Typing SVG">
+<a href="https://www.linkedin.com/in/miguelaraujodev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:miguelaraujoaraujo01@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> <a href="https://github.com/thearaujodev?tab=followers"><img src="https://img.shields.io/github/followers/thearaujodev?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores" /></a> <img src="https://komarev.com/ghpvc/?username=thearaujodev&label=Visitas&color=1f6feb&style=for-the-badge" alt="Visitas ao perfil" />
 
 </div>
+👨🏽‍💻 Sobre mim
+python
+class MiguelAraujo:
+    def __init__(self):
+        self.cargo     = "Aprendiz de Operações & Implantação @ Autopass"
+        self.formacao  = "Análise e Desenvolvimento de Sistemas @ FMU"
+        self.local     = "São Paulo, Brasil 🇧🇷"
+        self.foco      = ["Backend", "Automação", "Dados", "Full-Stack"]
+        self.stack     = ["Python", "JavaScript", "SQL"]
 
----
+    def mindset(self) -> str:
+        return "build → learn → improve → repeat"
 
-## 👨🏽‍💻 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas e trabalho na operação de bilhetagem da Autopass. Gosto de entender o problema antes da ferramenta: o que me move é transformar processos manuais e repetitivos em software simples, confiável e fácil de manter.
 
-Meu nome é Miguel Araújo e sou estudante de **Análise e Desenvolvimento de Sistemas**. 
+🔭 Construindo o Sauday para o FMU Tech Inovação 2026.2 (ODS 3 — Saúde e Bem-Estar)
+⚙️ No dia a dia, atendo chamados de suporte à bilhetagem (N1/N2) no TOPdesk seguindo ITIL e acompanho implantações em empresas parceiras
+🤖 Próximo passo: automatizar processos internos da operação com Python e SQL
+🌱 Aprofundando em APIs REST, Node.js, POO e modelagem de bancos relacionais
+💬 Pode falar comigo sobre Python, Flask, SQL, Excel e Power BI
+🛠️ Tecnologias
+<table> <tr> <td align="center" width="140"><b>Linguagens</b></td> <td><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS" /></td> </tr> <tr> <td align="center"><b>Backend</b></td> <td><img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark" alt="Flask, Node.js, Express" /></td> </tr> <tr> <td align="center"><b>Bancos de dados</b></td> <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="MySQL, SQLite, MongoDB" /></td> </tr> <tr> <td align="center"><b>Ferramentas</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /></td> </tr> <tr> <td align="center"><b>Dados</b></td> <td> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> </td> </tr> </table>
+🚀 Projetos em destaque
+<table> <tr> <td width="50%" valign="top"> <h3>💚 <a href="https://github.com/thearaujodev/sauday">Sauday</a></h3> <p>Plataforma web para organizar consultas, exames e vacinas, com <b>lembretes automáticos</b> antes de cada compromisso. API REST em Flask, serviço de lembretes independente e central de avisos com garantia de <b>aviso único</b> por lembrete (atualização atômica no banco).</p> <p>🏆 FMU Tech Inovação 2026.2 · ODS 3</p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> </p> <p><img src="https://img.shields.io/badge/status-Alpha_0.1-yellow?style=flat-square" alt="Status: Alpha 0.1" /></p> </td> <td width="50%" valign="top"> <h3>🌎 <a href="https://github.com/thearaujodev/LocalizaRecicla">LocalizaRecicla</a></h3> <p>Plataforma web para o descarte correto de resíduos em São Paulo. Encontra <b>ecopontos próximos</b> por geolocalização ou bairro, filtra por tipo de material e abre a rota no Google Maps. Base com <b>80 ecopontos reais</b> servida por API própria.</p> <p>🎓 Projeto acadêmico · 1º semestre de ADS</p> <p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> </p> <p><img src="https://img.shields.io/badge/status-Conclu%C3%ADdo-brightgreen?style=flat-square" alt="Status: Concluído" /></p> </td> </tr> </table>
+💼 Experiência & Formação
 
-Com tendência de estudos voltados para ser um **desenvolvedor full-stack**, busco aplicar meu aprendizado e experiência em projetos práticos nos quais venho os integrando ao Github.
+Autopass — Aprendiz · Operações / Implantação · 2026 – atual
 
-Tenho interesse em **desenvolvimento de software, automação e dados**, buscando entender não apenas como utilizar uma tecnologia, mas também como ela pode ser aplicada para resolver problemas e automatizar tarefas.
+Gestão de chamados de suporte à bilhetagem (N1/N2) no TOPdesk, seguindo boas práticas ITIL
+Acompanhamento de implantações nas garagens de empresas parceiras
 
-Atualmente, venho aprofundando meus conhecimentos principalmente em **Python, JavaScript, SQL e desenvolvimento web**, enquanto continuo explorando diferentes áreas do ecossistema de tecnologia.
+FMU — Faculdades Metropolitanas Unidas — Análise e Desenvolvimento de Sistemas · em andamento
 
----
+Certificação em Engenharia de Software — requisitos, UML, SDLC e modelagem de sistemas
 
-## 🛠️ Tech Stack
+📊 Estatísticas
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=thearaujodev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearaujodev&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" /> <img src="https://streak-stats.demolab.com?user=thearaujodev&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
-### 💻 Core Stack 
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
-
-### 🔧 Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
-
-### 📊 Data & Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-</p>
-
----
-
-## 📚 Atualmente estudando
-
-- 🐍 **Python** — desenvolvimento backend e automação
-- 🌐 **JavaScript** — desenvolvimento web
-- 🗄️ **SQL** — bancos de dados relacional e consultas
-- 🔗 **APIs** — integração entre sistemas
-- 📊 **Dados** — análise e visualização
-- 🔧 **Git & GitHub** — versionamento e boas práticas
-
----
-
-## 🚀 Projetos
-
-Aqui estão alguns dos projetos que venho desenvolvendo durante minha formação e estudos.
-
-### 🌎 LocalizaRecicla
-
-LocalizaRecicla é um projeto acadêmico que desenvolvi no 1º semestre de Análise e Desenvolvimento de Sistemas. Consiste em uma plataforma web que facilita o descarte correto de resíduos em São Paulo, permitindo que usuários encontrem pontos de coleta próximos de acordo com o tipo de material, localização e rotas.
-
-`JavaScript` `Node.js` `HMTL` `CSS` 
-
----
-
-> ## 🚧 Novos projetos em desenvolvimento.
-
-### 💚 Sauday
-
-Também no 2º semestre, participarei da 1ª edição  da FMU Tech Inovação 2026.2 - Desafio de Saúde e Bem-Estar (ODS 3). Para o evento, estou produzindo o Sauday, um projeto voltado à organização e acompanhamento de lembretes relacionados à saúde, desenvolvido para facilitar o controle de compromissos e cuidados recorrentes do usuário.
-
-`Python` `Flask` `SQLite` `JavaScript` `HMTL` `CSS` `Git`
-
-## 📫 Contato
-
-* 💼 LinkedIn: www.linkedin.com/in/miguelaraujodev
-* 📧 E-mail: miguelaraujoaraujo01@gmail.com
-* ☎️ Telefone: (11) 99593-1635
-
----
-
-<div align="center">
-
-### 💻 `build → learn → improve → repeat`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:58A6FF&height=100&section=footer" alt="Footer">
-
-</div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearaujodev/thearaujodev/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thearaujodev/thearaujodev/output/github-snake.svg" /> <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/thearaujodev/thearaujodev/output/github-snake.svg" /> </picture> </div>
+<!-- ============================== FOOTER ============================== --> <div align="center">
+build → learn → improve → repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="Rodapé" /> </div>
